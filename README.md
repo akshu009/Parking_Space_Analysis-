@@ -1,4 +1,4 @@
-# Free-Parking-Space-Detection-Using-Computer-Vision
+# Parking_Space_Analysis_Using_Computer_Vision
 
 ### Smart Parking Space Detection System 
 
